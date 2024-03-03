@@ -1,0 +1,6 @@
+train: C:\Users\yasser\Desktop\website\2023\YOLOv8\yolov8BallObjectDetection\train
+val: C:\Users\yasser\Desktop\website\2023\YOLOv8\yolov8BallObjectDetection\val
+
+nc: 2
+
+names: ["Blue", "Purple"]

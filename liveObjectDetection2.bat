@@ -1,0 +1,1 @@
+yolo task=detect mode=predict model=yolov8n_ball2.pt show=True conf=0.5 source=0
